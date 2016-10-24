@@ -1,2 +1,2 @@
-# One-Time-Pad-Same-Key-Test-Attack
+# Steram Ciphers: One Time Pad And The Same Key
 Stream Cipher
